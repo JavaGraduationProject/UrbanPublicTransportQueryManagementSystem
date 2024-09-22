@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 # jQuery Raty - A Star Rating Plugin
 
 [![Build Status](https://img.shields.io/travis/wbotelhos/raty/master.svg)](https://travis-ci.org/wbotelhos/raty "Travis CI")
